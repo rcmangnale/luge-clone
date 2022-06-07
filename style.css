@@ -11,6 +11,14 @@ body {
   height: 30px;
   margin-top: 28px;
 }
+.docs-btn{
+  height: 30px;
+  margin-top: 28px;
+  font-size: 25.5px;
+  font-family: "Hk Grotesk", sans-serif;
+  border: none;
+  background-color: #fff;
+}
 p {
   font-size: 25.5px;
   font-family: "Hk Grotesk", sans-serif;
